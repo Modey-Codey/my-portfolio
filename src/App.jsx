@@ -69,7 +69,7 @@ const Portfolio = () => {
         id="projects"
         className="text-center py-40 bg-gradient-to-br from-black to-purple-500 w-full h-screen"
       >
-        <h2 className="text-6xl font-raleway font-bold mb-24 mx-auto mt-28 text-[#fcf5fb]">
+        <h2 className="text-6xl font-raleway font-bold mb-24 mx-auto mt-20 text-[#fcf5fb]">
           These are some of my projects
         </h2>
 
