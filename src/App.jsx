@@ -1,5 +1,6 @@
 import React from "react";
 import { FaLinkedin, FaGithub, FaEnvelope } from "react-icons/fa";
+import PonyMartImage from "../src/assets/images/PONY MART.png";
 
 const Portfolio = () => {
   return (
@@ -80,7 +81,7 @@ const Portfolio = () => {
             className="bg-[#8de1ff] shadow-lg"
           >
             <img
-              src="../src/assets/images/PONY MART.png"
+              src={PonyMartImage}
               alt="project"
               className="w-full h-80 object-cover"
             />
