@@ -71,7 +71,7 @@ const Portfolio = () => {
         className="text-center py-40 bg-gradient-to-br from-black to-purple-500 w-full h-screen"
       >
         <h2 className="text-6xl font-raleway font-bold mb-24 mx-auto mt-20 text-[#fcf5fb]">
-          These are some of my project
+          These are some of my projects
         </h2>
 
         <div className="flex justify-center max-w-5xl mx-auto mb-24 text-gray-800">
