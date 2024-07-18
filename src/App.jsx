@@ -50,7 +50,7 @@ const Portfolio = () => {
         className="flex flex-col justify-center items-center w-full h-screen bg-gradient-to-br from-purple-500 to-black"
       >
         <img
-          src="https://scontent.fbkk29-7.fna.fbcdn.net/v/t39.30808-6/421671408_2418428501697986_5488013884227033654_n.jpg?stp=c0.17.206.206a_dst-jpg_p206x206&_nc_cat=106&ccb=1-7&_nc_sid=714c7a&_nc_eui2=AeFBko-fEzKmsYCa5J9elf3haTLF8xk2F8ppMsXzGTYXyl_NES9tusTFxXqLjEbP2CQmVXG_m9HmQMoWhmLO2vpC&_nc_ohc=pG3qpSENFYAQ7kNvgEmokOI&_nc_ht=scontent.fbkk29-7.fna&oh=00_AYAxGkNVxFjsptIL9gfH29xtJ-Gpx1lTSnjgiMZt2_n05w&oe=6693D88B"
+          src="https://scontent.fbkk29-7.fna.fbcdn.net/v/t39.30808-6/421671408_2418428501697986_5488013884227033654_n.jpg?stp=c0.17.206.206a_dst-jpg_p206x206&_nc_cat=106&ccb=1-7&_nc_sid=714c7a&_nc_eui2=AeFBko-fEzKmsYCa5J9elf3haTLF8xk2F8ppMsXzGTYXyl_NES9tusTFxXqLjEbP2CQmVXG_m9HmQMoWhmLO2vpC&_nc_ohc=STsAFdLDcToQ7kNvgFj2K7-&_nc_ht=scontent.fbkk29-7.fna&oh=00_AYACsknY6zFJwvnvJDuJ6c0NobuvlByj_BCzuyZP_QMvMA&oe=669ED50B"
           alt="Profile"
           className="rounded-full w-40 h-40 mb-10"
         />
@@ -70,10 +70,28 @@ const Portfolio = () => {
         className="text-center py-40 bg-gradient-to-br from-black to-purple-500 w-full h-screen"
       >
         <h2 className="text-6xl font-raleway font-bold mb-24 mx-auto mt-20 text-[#fcf5fb]">
-          These are some of my projects
+          These are some of my project
         </h2>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-16 max-w-5xl mx-auto mb-24 text-gray-800">
+        <div className="flex justify-center max-w-5xl mx-auto mb-24 text-gray-800">
+          <a
+            href="https://jsd-7-cmfm-frontend.vercel.app/"
+            target="_blank"
+            className="bg-[#8de1ff] shadow-lg"
+          >
+            <img
+              src="../src/assets/images/PONY MART.png"
+              alt="project"
+              className="w-full h-80 object-cover"
+            />
+            <p className="text-3xl p-8">PONY MART</p>
+          </a>
+          {/* 
+          <a href="" target="_blank" className="bg-[#0089BA] shadow-lg">
+            <img src="" alt="project" className="w-full h-80 object-cover" />
+            <p className="text-3xl p-8">Project</p>
+          </a>
+grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-16
           <a href="" target="_blank" className="bg-[#0089BA] shadow-lg">
             <img src="" alt="project" className="w-full h-80 object-cover" />
             <p className="text-3xl p-8">Project</p>
@@ -82,17 +100,7 @@ const Portfolio = () => {
           <a href="" target="_blank" className="bg-[#0089BA] shadow-lg">
             <img src="" alt="project" className="w-full h-80 object-cover" />
             <p className="text-3xl p-8">Project</p>
-          </a>
-
-          <a href="" target="_blank" className="bg-[#0089BA] shadow-lg">
-            <img src="" alt="project" className="w-full h-80 object-cover" />
-            <p className="text-3xl p-8">Project</p>
-          </a>
-
-          <a href="" target="_blank" className="bg-[#0089BA] shadow-lg">
-            <img src="" alt="project" className="w-full h-80 object-cover" />
-            <p className="text-3xl p-8">Project</p>
-          </a>
+          </a> */}
         </div>
       </section>
 
