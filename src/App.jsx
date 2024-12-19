@@ -51,7 +51,7 @@ const Portfolio = () => {
         className="flex flex-col justify-center items-center w-full h-screen bg-gradient-to-br from-purple-500 to-black"
       >
         <img
-          src="https://scontent.fbkk29-7.fna.fbcdn.net/v/t39.30808-6/421671408_2418428501697986_5488013884227033654_n.jpg?stp=c0.17.206.206a_dst-jpg_p206x206&_nc_cat=106&ccb=1-7&_nc_sid=714c7a&_nc_eui2=AeFBko-fEzKmsYCa5J9elf3haTLF8xk2F8ppMsXzGTYXyl_NES9tusTFxXqLjEbP2CQmVXG_m9HmQMoWhmLO2vpC&_nc_ohc=STsAFdLDcToQ7kNvgFj2K7-&_nc_ht=scontent.fbkk29-7.fna&oh=00_AYACsknY6zFJwvnvJDuJ6c0NobuvlByj_BCzuyZP_QMvMA&oe=669ED50B"
+          src="https://scontent.fbkk7-2.fna.fbcdn.net/v/t39.30808-6/416686578_2405971049610398_2783208933960134797_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeF6pL5qi3ie2bokQIMyUjoJLgA1iP3nzrcuADWI_efOt87UoLgRwGlYe7bodyyy3XJ7hx34ANppDKEwDCpb2GkF&_nc_ohc=IWoeKxxAyE4Q7kNvgEGzJZn&_nc_oc=AdhEQqtjQJXHed2IngrSOw8CY4FsMUUIfjQSdTAQtSpQ7Hwf0bYbpl-OpxRh080ahXg&_nc_zt=23&_nc_ht=scontent.fbkk7-2.fna&_nc_gid=AnupNdokeXB_JFmw8Gt5IAg&oh=00_AYBwomQhyDvXhpEqFU9OCmc9hsQAFAitP1QuzDDhnKDW6A&oe=67699678"
           alt="Profile"
           className="rounded-full w-40 h-40 mb-10"
         />
